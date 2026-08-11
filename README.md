@@ -1,11 +1,10 @@
 👋 Merhaba, Ben Alperen Yiğit Bulat 
-🚀 Full-Stack Yazılım Geliştirici & Sistem Mimarı
+🚀 Yazılım Geliştirici & Özel Eğitim Öğretmeni
 
-Yüksek performanslı web uygulamaları, gerçek zamanlı veri sistemleri, güvenli QR biletleme altyapıları ve modern arayüz mimarileri geliştiren bir yazılım mühendisiyim. Ölçeklenebilir arka plan sistemleri, canlı TOTP şifreleme ve çevrimdışı (offline-first) çalışan mobil/web çözümleri tasarlıyorum.
+Özel eğitim pratiğinden doğan ihtiyaçları; açık kaynak, geliştirilebilir ve kolayca entegre edilen modüllere ve ürünlere dönüştürüyorum — temiz kod, temiz tasarım anlayışıyla kendimi geliştiriyorum.
 
----
 
- 🛠️ Teknoloji Yığını & Yetkinlikler
+ 🛠️ Yetkinlikler
 
 ```json
 {
