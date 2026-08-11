@@ -8,8 +8,8 @@
 
 ```json
 {
-  "frontend": ["Next.js (App Router)", "React", "TypeScript", "TailwindCSS", "HTML5/CSS3"],
-  "backend": ["Node.js", "Python", "Prisma ORM", "REST APIs", "Webhooks", "TOTP Engine"],
+  "frontend": ["Next.js", "React", "TypeScript", "TailwindCSS", "HTML5/CSS3"],
+  "backend": ["Node.js", "Python", "Prisma ORM", "REST APIs"],
   "database": ["PostgreSQL", "Redis", "MongoDB", "Cloud Firestore"],
   "devops_tools": ["Git", "GitHub CLI", "Vercel", "Docker", "Linux / Zsh"]
 }
